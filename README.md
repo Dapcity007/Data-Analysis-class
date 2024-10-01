@@ -43,8 +43,8 @@ Microsoft Excel,Microsoft Powerpoint,Microsoft PowerBI were properly installed.
 
   ## Recommendation
   ---
-  - i The Company should optimize the opportunities presented during seasons to improve their sales and maximize profit.
-  - ii Using physically attractive employees for advertisement based on the measurements of staffs can improve the outcome of sale with the right marketing strategy which would sustain the company growth and enhance productivity.
+ - i The Company should optimize the opportunities presented during seasons to improve their sales and maximize profit.
+ - ii Using physically attractive employees for advertisement based on the measurements of staffs can improve the outcome of sale with the right marketing strategy which would sustain the company growth and enhance productivity.
   
 
 
