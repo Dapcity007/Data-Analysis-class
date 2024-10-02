@@ -32,6 +32,9 @@ Microsoft Excel,Microsoft Powerpoint,Microsoft PowerBI were properly installed.
 - v Analysis of Salaries and  Regions
 - vi Measurement data and Corporate profit
 
+## Visualization
+![snip picture](https://github.com/user-attachments/assets/db1a8ce0-98c8-4a95-b40e-442c4fdc128f)
+
 ## Result
 ---
 - i Total Sales in Europe: The analysis review showed that the majority of sales were in Italy
